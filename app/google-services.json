@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797883341441",
+    "project_id": "contactlistapp-4a984",
+    "storage_bucket": "contactlistapp-4a984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797883341441:android:c4e2e9784825a86738cb80",
+        "android_client_info": {
+          "package_name": "com.ads.contactlistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797883341441-uark9ahmram707l77mkrpjr1m41ec7ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKo18YIS23awJQsaDrWuxCGa-YXD7HILY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797883341441-uark9ahmram707l77mkrpjr1m41ec7ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

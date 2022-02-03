@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ContactListApp</string>
+
+    <string name="contact_list">Contact List</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+
+    <string name="str_contact_name">Name :</string>
+    <string name="str_contact_nick_name">Nick Name :</string>
+    <string name="str_contact_number">Contact Number :</string>
+    <string name="str_contact_email">Contact Email :</string>
+    <string name="str_blood_group">Blood Group :</string>
+    <string name="str_save">save</string>
+    <string name="str_update">Update</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_ok">Ok</string>
+
+
+    <string name="err_no_internet">No internet</string>
+    <string name="err_empty_field">Empty Field</string>
+    <string name="err_invalid_email">Invalid Email</string>
+
+    <string name="toast_no_data">No data found</string>
+    <string name="toast_fail_to_get_data">Fail to get the data</string>
+</resources>
